@@ -40,3 +40,7 @@
 - git push yapiyoruz ve gondermis oluyoruz
 - tabi bunlari yapmadan once github'ta ayni Ipucu isimli bir new repository acmis olmaliyiz
 - git push -u origin main yazarak github'a gonderme islemini tamamliyoruz. bunlar github'ta gosteriliyor zaten
+- herhangi bir degisiklik yaparsak kodlarimizda git add .
+- git commit -m "degisiklik yapildi"
+- git push yapiyoruz ve gondermis oluyoruz
+- tabi bunlari yapmadan once github'ta ayni Ipucu isimli bir new repository acmis olmaliyiz
