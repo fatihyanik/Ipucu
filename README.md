@@ -1,0 +1,16 @@
+- cd Documents yazarak dokuman folderina gittik
+- mkdir Ipucu yazarak dokuman folderinin icinde Ipucu folderi olusturduk
+- cd Ipucu yazarak Ipucu folderinin icine girdik
+- touch README.md yazarak Ipucu folderinin icinde README.md file'i olusturduk
+- code . yazarak visual studio muzun acilmasini sagladik
+- git init   --->github kurulumuna basladik
+- git add .  --->verilerimizi staging area'ya tasidik
+- git commit -m "first commit" yazarak ilk commiti verdik
+- git status yazarak branchimizi ogrenebiliriz
+- git branch -M main yazarak main branch ile devam ettik
+- git remote add origin "https ... ipucu.git
+- git push -u origin main yazarak github'a gonderme islemini tamamliyoruz. bunlar github'ta gosteriliyor zaten
+- herhangi bir degisiklik yaparsak kodlarimizda git add .
+- git commit -m "degisiklik yapildi"
+- git push yapiyoruz ve gondermis oluyoruz
+- tabi bunlari yapmadan once github'ta ayni Ipucu isimli bir new repository acmis olmaliyiz
