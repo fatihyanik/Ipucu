@@ -16,7 +16,7 @@
 - tabi bunlari yapmadan once github'ta ayni Ipucu isimli bir new repository acmis olmaliyiz
 
 # Github'tan degisiklik nasil yapiliyor?
--README.md uzerindeki kalem isaretine tikliyoruz
--Degisikliklerimizi yapiyoruz
--En son alt tarafta commit changes var oraya basiyoruz.
--sonra terminalimize git pull yazip visual studiomuzu yeniliyoruz
+- README.md uzerindeki kalem isaretine tikliyoruz
+- Degisikliklerimizi yapiyoruz
+- En son alt tarafta commit changes var oraya basiyoruz.
+- sonra terminalimize git pull yazip visual studiomuzu yeniliyoruz
